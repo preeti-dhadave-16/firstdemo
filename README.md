@@ -1,2 +1,2 @@
 # Hi, I am Preeti
-This is my first project
+I am working as a software engineer
